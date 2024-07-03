@@ -12,5 +12,5 @@
 * [User-centred design roles]()
     * [Interaction designer](/interaction-designer/)
     * [Service designer](/service-designer/)
-        * [Service Designer](/service-design/ServiceDesigner.md)
-        * [Senior Service Designer](/service-design/SeniorServiceDesigner.md)
+        * [Service Designer](/service-designer/ServiceDesigner.md)
+        * [Senior Service Designer](/service-designer/SeniorServiceDesigner.md)
