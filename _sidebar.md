@@ -1,2 +1,3 @@
-- [Home](/)
-- [Another page](another.md)
+* [Home](/)
+* [Another page](another.md)
+* [New](/)
