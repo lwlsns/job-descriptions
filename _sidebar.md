@@ -1,4 +1,2 @@
-- Sidebar 1
-
-  - [Home](/)
-  - [Another page](another.md)
+- [Home](/)
+- [Another page](another.md)
