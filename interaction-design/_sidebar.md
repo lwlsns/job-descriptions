@@ -1,7 +1,0 @@
-* [Home](/)
-* [Delivery Management](/delivery-management/)
-* [DevOps](/devops/)
-* [Interaction Design](/interaction-design/)
-    * [Lead Interaction Designer](/interaction-design/leadinteractiondesigner.md)
-* [Service Design](/service-design/)
-* [Software Development](/software-development/)

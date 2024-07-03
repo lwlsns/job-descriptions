@@ -9,8 +9,8 @@
     * [Development operations (DevOps) engineer](/devops/)
     * [Frontend developer](/frontend-developer)
     * [Software developer](/software-developer/)
+        * [Apprentice developer](/software-developer/ApprenticeDeveloper.md)
+        * [Junior developer](/software-developer/JuniorDeveloper.md)
 * [User-centred design roles]()
     * [Interaction designer](/interaction-designer/)
     * [Service designer](/service-designer/)
-
-

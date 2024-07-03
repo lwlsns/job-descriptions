@@ -1,6 +1,8 @@
 * [Home](/)
 * [Product and delivery roles]()
     * [Delivery manager](/delivery-manager/)
+      * [Delivery Manager](/delivery-management/DeliveryManager.md)
+      * [Senior Delivery Manager](/delivery-management/SeniorDeliveryManager.md)
 * [Quality assurance testing (QAT) roles]()
     * [Quality assurance testing (QAT) analyst]()
     * [Test engineer]()
@@ -12,5 +14,3 @@
 * [User-centred design roles]()
     * [Interaction designer](/interaction-designer/)
     * [Service designer](/service-designer/)
-
-
