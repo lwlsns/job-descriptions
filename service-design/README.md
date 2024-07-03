@@ -1,4 +1,4 @@
-# **Service Designer (Government)**
+# **Service Designer**
 
 A **Service Designer** in government focuses on designing and improving public services to ensure they are user-centric, efficient, and effective. They work to create seamless and accessible experiences for citizens by integrating various touchpoints and processes across government services. Key responsibilities include:
 
