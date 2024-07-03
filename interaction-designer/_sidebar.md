@@ -11,5 +11,5 @@
     * [Software developer](/software-developer/)
 * [User-centred design roles]()
     * [Interaction designer](/interaction-designer/)
-        * [Lead Interaction Designer](/interaction-design/leadinteractiondesigner.md)
+        * [Lead Interaction Designer](/interaction-designer/LeadInteractionDesigner.md)
     * [Service designer](/service-designer/)
