@@ -1,5 +1,7 @@
 * [Home](/)
 * [Delivery Management](/delivery-management/)
+  * [Delivery Manager](/delivery-management/DeliveryManager.md)
+  * [Senior Delivery Manager](/delivery-management/SeniorDeliveryManager.md)
 * [DevOps](/devops/)
 * [Interaction Design](/interaction-design/)
 * [Service Design](/service-design/)
