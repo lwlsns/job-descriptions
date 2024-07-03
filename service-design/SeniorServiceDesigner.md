@@ -1,7 +1,7 @@
 # **Senior Service Designer**
 
 **Location:** London, UK  
-**Salary:** £60,000 - £75,000 per annum  
+**Salary:** £60,000 - £95,000 per annum  
 **Hours:** Full-Time  
 **Start Date:** 2nd September 2024
 
