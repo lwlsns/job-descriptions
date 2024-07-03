@@ -2,7 +2,7 @@
 * [Product and delivery roles]()
     * [Delivery manager](/delivery-manager/)
       * [Delivery Manager](/delivery-manager/DeliveryManager.md)
-      * [Senior Delivery Manager](/SeniorDeliveryManager.md)
+      * [Senior Delivery Manager](/delivery-manager/SeniorDeliveryManager.md)
 * [Quality assurance testing (QAT) roles]()
     * [Quality assurance testing (QAT) analyst]()
     * [Test engineer]()
