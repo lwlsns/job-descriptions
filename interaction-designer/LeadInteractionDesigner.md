@@ -1,29 +1,27 @@
 
 
 # Lead Interaction Designer
+**Location:** National\*  
+**Closing Date:** [Insert Date]  
+**Interviews:** Expected w/c [Insert Week]
 
-**Location**: National*
+**Grade:** G6  
+(MoJ candidates who are on a specialist grade will be able to retain this grade on lateral transfer)
 
-**Closing** Date:
-**Interviews**: expected w/c
+**Salary:**   
+London: £[Insert Amount] (may include an allowance of up to £[Insert Allowance])  
+National: £[Insert Amount]
 
-**Grade**: G6
-(MoJ candidates who are on a specialist grade, will be able to retain this grade on lateral transfer)
+**Working Pattern:** Full-time, Part-time, Flexible working  
+**Contract Type:** Permanent  
+*Vacancy Number:** [Insert Number]
 
-**Salary**:
-London: £ (which may include an allowance of up to £)
-National: National: £
+\*We offer a hybrid working model, allowing for a balance between remote work and time spent in your local office. [Office locations](https://example.com/map) can be found on this map.
 
-**Working pattern**: Full time, Part time, flexible working
-**Contract Type**: Permanent
 
-**Vacancy number**:
+## The Role
 
-  
-
-*We offer a hybrid working model, allowing for a balance between remote work and time spent in your local office. Office locations can be found [ON THIS MAP](https://www.google.com/maps/d/viewer?mid=1CsJxWFinu4iFbA0Tnq-KrwUAkbvLOZwQ&ll=52.953218784877095%2C-1.0082511500000058&z=6)
-
-# The Role
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i8Py4OjDCQo" frameborder="0" allowfullscreen></iframe>
 
 We’re recruiting for a [ROLE]  here at [Justice Digital](https://mojdigital.blog.gov.uk/working-at-moj-ds/), to be part of our warm and collaborative team.
 
@@ -44,17 +42,16 @@ Working with the other MoJ Design Leads and the Head of Design, you’ll also be
 
 To help picture your life at [MoJ Justice Digital](https://mojdigital.blog.gov.uk/working-at-moj-ds/) please take a look at our [blog](https://mojdigital.blog.gov.uk/) and our [Digital and Technology strategy 2025](https://www.gov.uk/government/publications/ministry-of-justice-digital-strategy-2025/ministry-of-justice-digital-strategy-2025)
 
-# Key Responsibilities:
+## Key Responsibilities:
 
 As a [ROLE], you will
 
-People & community
+People & community  
 -   Lead the recruitment of a talented and diverse team of designers that meet the growing needs of Justice Digital
 -   Support the professional development of designers through coaching, line management & career progression
 -   Lead Community of Practices that inspire designers to learn, share best practice and collaborate on strategic problems.
     
-Design standards & operations
-
+Design standards & operations  
 -   Work with the Head of Design to set an ambitious vision for Design at MoJ, pushing the boundaries of what design can do to transform government
 -   Work with the other Design Leads to develop and embed design standards that ensure all our design work is consistently inclusive, accessible and easy to use.
 -   Oversee the work of the MoJ Design Operations specialist. Specifically: the development of the MoJ Design System and ensuring all our designers have the guidance, tools and training they need to enable great design
@@ -68,7 +65,7 @@ Influence Digital Strategy
 If this feels like an exciting opportunity, something you are enthusiastic about, and want to join our team please read on and apply!
 
 
-# Benefits
+## Benefits
 
 -   37 hours per week and flexible working options including working from home, working part-time, job sharing, or working compressed hours.
 -   A £1k per person learning budget is in place to support all our people, with access to best in class conferences and seminars, accreditation with professional bodies, fully funded vocational programmes and e-learning platforms
@@ -84,10 +81,9 @@ If this feels like an exciting opportunity, something you are enthusiastic about
 -   Free membership to BCS, the Chartered Institute for IT.
 -   Some offices may have a subsidised onsite Gym.
     
-# Person Specification
+## Person Specification
 
 Essential
-
 -   You have a strong grounding in user-centred design, and have experience working on multiple or highly complex services. You know how to give direction on which tools or methods to use and how to bring agile delivery teams along with you.
 -   You know what good public services look like and how to design in an inclusive, accessible way. You can set design standards and coach others.
 -   Having worked as a designer, you can create high-quality, compelling design concepts and artefacts. You are experienced in rapid paper and digital prototyping, and understand security, accessibility, version control and hosting.
@@ -101,10 +97,9 @@ We welcome the unique contribution diverse applicants bring and do not discrimin
 
 Our values are Purpose, Humanity Openness and Together. Find out more [here](https://www.gov.uk/government/organisations/ministry-of-justice/about/equality-and-diversity) about how we celebrate diversity and an inclusive culture in our workplace.
 
-# How to Apply
+## How to Apply
 
 Candidates must submit
-
 -   **CV**
 -   **Portfolio with work examples [REMOVE if not needed]**
 -   **Statement of suitability (max 750 words).**
@@ -136,7 +131,7 @@ Should you be unsuccessful in the role that you have applied for, but demonstrat
 
 A reserve list may be held for a period of up to 12 months from which further appointments may be made.
 
-# Terms & Conditions
+## Terms & Conditions
 
 Please review our [Terms & Conditions](https://docs.google.com/document/d/1fO0ljbXywITunpexqcLHfzWOpFQaLbB0fVIlDAPjGlM/edit?usp=sharing) which set out the way we recruit and provide further information related to the role and salary arrangements.
 

@@ -1,0 +1,58 @@
+.sidebar-nav li {
+  position: relative;
+  margin: 0.25rem;
+  cursor: pointer;
+}
+.sidebar .sidebar-nav {
+  line-height: 2em;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 11px;
+  left: -12px;
+  height: 6px;
+  width: 6px;
+  border-right: 1px solid #505d6b;
+  border-bottom: 1px solid #505d6b;
+  transform: rotate(-45deg);
+  transition: transform 0.1s;
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li.open::before {
+  transform: rotate(45deg);
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li.collapse::before {
+  transform: rotate(-45deg);
+}
+.sidebar ul li a {
+  font-size: 15px;
+}
+.sidebar ul li a:hover {
+  text-decoration: underline;  /* Keeps the underline effect */
+}
+.file {
+  padding-left: 0.5rem;      /* Specific left padding */
+}
+.file:hover {
+  background-color: lightgrey;    /* Changes background color on hover */
+  border-radius: 0.25rem;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}
+.text-wrapper:hover {
+  background-color: lightgrey;    /* Changes background color on hover */
+  border-radius: 0.25rem;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}
+.chevron {
+  float: right; /* Aligns the chevron to the right */
+  margin-left: 10px; /* Adds some spacing between text and chevron */
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}

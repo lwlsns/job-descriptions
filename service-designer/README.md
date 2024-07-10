@@ -1,13 +1,16 @@
 # **Service Designer**
 
-A **Service Designer** in government focuses on designing and improving public services to ensure they are user-centric, efficient, and effective. They work to create seamless and accessible experiences for citizens by integrating various touchpoints and processes across government services. Key responsibilities include:
+**Service Designers** design the end-to-end journey of a service to help users complete their goals and enable the government to deliver policy intents. In this role, you may be involved in creating or modifying transactions, products, and content across both digital and offline channels provided by different parts of the government.
 
-- **User Research:** Conduct research to understand the needs, behaviours, and pain points of citizens and stakeholders who interact with government services.
-- **Service Blueprinting:** Develop comprehensive service blueprints that map out the entire service experience, including interactions, processes, and system integrations.
-- **Journey Mapping:** Create user journey maps to visualise and analyse the steps citizens take when using government services, identifying opportunities for improvement.
-- **Prototyping and Testing:** Design and test service concepts and prototypes to gather feedback, refine solutions, and ensure they meet user needs and expectations.
-- **Collaboration:** Work closely with policymakers, frontline staff, and technology teams to co-design and implement solutions that improve service delivery.
-- **Policy Integration:** Ensure that service designs align with government policies, regulations, and strategic objectives.
-- **Continuous Improvement:** Advocate for and implement best practices in service design, driving continuous improvement and innovation in public service delivery.
+Our role aligns with the [GOV.UK Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/role/service-designer). This framework provides guidance on the skills and competencies required for different levels of service design roles in the government.
 
-A Service Designer in government ensures that services are accessible, intuitive, and aligned with the needs of the public, thereby enhancing the overall quality of government interactions.
+## **Role Levels**
+
+1. [Associate Service Designer](./associate-service-designer.md)
+2. [Junior Service Designer](./junior-service-designer.md)
+3. [Service Designer](/service-designer/SeniorServiceDesigner.md)
+4. [Senior Service Designer](/service-designer/SeniorServiceDesigner.md)
+5. [Lead Service Designer](./lead-service-designer.md)
+6. [Head of Service Design](./head-of-service-design.md)
+
+For more information on the role and the capability framework, visit the [Service Designer Role Overview](https://ddat-capability-framework.service.gov.uk/role/service-designer).

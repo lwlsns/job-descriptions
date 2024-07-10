@@ -1,0 +1,81 @@
+.sidebar-nav li {
+  position: relative;
+  margin: 0.25rem;
+  cursor: pointer;
+}
+.sidebar .sidebar-nav {
+  line-height: 2em;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 11px;
+  left: -12px;
+  height: 6px;
+  width: 6px;
+  border-right: 1px solid #505d6b;
+  border-bottom: 1px solid #505d6b;
+  transform: rotate(-45deg);
+  transition: transform 0.1s;
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li.open::before {
+  transform: rotate(45deg);
+}
+.sidebar-nav ul:not(.app-sub-sidebar) > li.collapse::before {
+  transform: rotate(-45deg);
+}
+.sidebar ul li a {
+  font-size: 1rem;
+}
+.sidebar ul li a:hover {
+  text-decoration: underline;  /* Keeps the underline effect */
+}
+/* Target all .file elements */
+.sidebar .sidebar-nav .file {
+  /* your styles here */
+  margin-bottom: 20px;
+}
+
+/* Override styles for .file elements that are inside .folder */
+.sidebar .sidebar-nav .folder .file {
+  /* styles that should NOT apply to .file inside .folder */
+  /* You can leave this empty if you only want to apply styles to .file not inside .folder */
+  margin-bottom: 0.25rem;
+}
+
+.sidebar .sidebar-nav .folder.level-1 {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.sidebar .sidebar-nav .folder.level-2 {
+  font-size: 1rem;
+}
+
+.file:hover {
+  background-color: lightgrey;    /* Changes background color on hover */
+  border-radius: 0.25rem;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}
+.text-wrapper:hover {
+  background-color: lightgrey;    /* Changes background color on hover */
+  border-radius: 0.25rem;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}
+.chevron {
+  float: right; /* Aligns the chevron to the right */
+  margin-left: 10px; /* Adds some spacing between text and chevron */
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  transition: background-color 0.2s cubic-bezier(0.08, 0.52, 0.52, 1);
+}
+
+.markdown-section iframe {
+  border: 1px solid #eee;
+}
